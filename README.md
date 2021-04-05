@@ -4,3 +4,14 @@ Escribir tu predicción y fundamento de cada valor en éste
 archivo
 
 Respuesta:
+lo que sabemos por el codigo es que los valores de las variables 
+a = 2 
+b = a + a (por lo tanto seria 2 + 2 ) y el resultado de eso es 4 
+c= a + 1 (que seria 2 + 1) resultado 3 
+x= funcion de (2+4+3) total 9
+
+y despue tenemos las fucniones que seria:
+
+x= x + 1 (9+1) resultado 10
+y= x + 2 (9 + 2) resultado 11
+z= x + y + z  (9+1+2) resultado 12 
